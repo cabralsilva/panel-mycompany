@@ -1,0 +1,7 @@
+dist
+node_modules
+panel_deupetch
+.env.local
+Arquivo.zip
+yarn.lock
+yarn-error.log
